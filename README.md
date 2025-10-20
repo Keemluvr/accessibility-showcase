@@ -11,3 +11,20 @@ Apenas decorativa:
 ```html
 alt="" role="presentation"
 ```
+
+
+-----
+
+### Hierarquia de títulos
+
+--> H1 = único por página  
+--> H2  
+--> .  
+--> .  
+--> .  
+--> H6  
+
+Usando span com hierarquia:
+```
+<span role="heading" aria-level=""/2>Título</span>
+```
