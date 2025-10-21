@@ -44,7 +44,7 @@ Usando span com hierarquia:
 --> .  
 
 ```html
- <section id="features" aria-label="Funcionalidades do app"/>...</section>
+ <section id="features" aria-label="Funcionalidades do app">...</section>
 ```
 
 
