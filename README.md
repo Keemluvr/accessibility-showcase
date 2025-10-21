@@ -25,6 +25,24 @@ alt="" role="presentation"
 --> H6  
 
 Usando span com hierarquia:
+```html
+<span role="heading" aria-level="2"/>Título</span>
 ```
-<span role="heading" aria-level=""/2>Título</span>
+
+-----
+
+### Landmarks
+
+--> header  
+--> nav    
+--> main  
+--> section  
+--> aside  
+--> footer  
+--> .  
+--> .  
+--> .  
+
+```html
+ <section id="features" aria-label="Funcionalidades do app"/>...</section>
 ```
