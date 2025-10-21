@@ -46,3 +46,12 @@ Usando span com hierarquia:
 ```html
  <section id="features" aria-label="Funcionalidades do app"/>...</section>
 ```
+
+
+-----
+
+
+### Constraste de cores
+
+https://webaim.org/resources/contrastchecker/
+
