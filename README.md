@@ -55,3 +55,18 @@ Usando span com hierarquia:
 
 https://webaim.org/resources/contrastchecker/
 
+
+
+-----
+
+### Trancrição de vídeo
+
+```html
+<video muted="muted" autoplay="" loop="" style="max-width: 100%; height: 100%">
+    <source src="assets/img/demo-screen.mp4" type="video/mp4" />
+    <link rel="transcript" href="#transcricaoVideo1" title="transcrição do novo vídeo"/>
+</video>
+<transcript id="transcricaoVideo1">
+    Transcrição do novo vídeo
+</transcript>
+```
